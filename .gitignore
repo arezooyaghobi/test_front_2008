@@ -22,3 +22,6 @@ rad.json
 TestResults.xml
 
 test.txt
+
+./image/*.jpg
+./image/*.*
